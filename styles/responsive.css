@@ -5,9 +5,9 @@
 .ham-bar{
     display: block;
     color: white;
-    width: 18px;
+    width: 12px;
     height: 0;
-    font-size: 100px;
+    
 }
 .container{
     font-family: Inter;
@@ -31,12 +31,12 @@
     width: 90%;
 }
 .banner-content h1{
-    font-size: 48px;
+    font-size: 30px;
     font-weight: 900;
 
 }
 .banner-content p{
-    font-size: 12px;
+    font-size: 8px;
     font-weight: 400;
     
 }
@@ -44,14 +44,14 @@
     width: 50%;
     height: 55px;
     padding: 10px 10px;
-    font-size: 16px;
+    font-size: 14px;
     border: none;
     
 }
 .secondary-btn{
     width: 50%;
     height: 40px;
-    font-size: 16px;
+    font-size: 14px;
     margin-top: 10px;
     border:1px solid rgb(255, 255, 255);
     

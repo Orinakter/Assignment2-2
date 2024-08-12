@@ -295,3 +295,71 @@ nav ul li a{
   font-weight: 400;
 
 }
+
+.run-section-start{
+  max-width: 1440px;
+  height: 470px;
+  background:rgb(0, 0, 0); 
+  padding-top: 50px;
+
+}
+
+.run-content{
+  
+   display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+  width: 1000px;
+  height: 350px;
+  margin: 0 auto;
+  background:rgb(33, 33, 33);
+  padding-top: 50px;
+
+}
+.run-content-text{
+  margin: 0 auto;
+  background:rgb(33, 33, 33);
+  
+  
+}
+.run-content-text h3{
+  width: 443px;
+  height: 116px;
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  text-align: left;
+}
+
+
+.run-content-text p{
+  width: 443px;
+  height: 72px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+
+}
+.run-btn{
+  width: 224px;
+  height: 54px;
+  border-radius: 42px;
+  background: rgb(230, 83, 60);
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+  text-align: left;
+  padding: 16px 40px 16px 40px;
+  padding-left: 60px;
+
+}
+
+.run-image img{
+  width: 366px;
+  height: 312px;
+  border-radius: 18px;
+  padding-left: 100px;
+
+}
+

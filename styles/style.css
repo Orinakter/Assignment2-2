@@ -166,7 +166,7 @@ nav ul li a{
 
 .habit{
   max-width: 1440px;
-  height: 580px;
+  height: 580px; 
   background:rgb(0, 0, 0);
 }
 
@@ -362,4 +362,43 @@ nav ul li a{
   padding-left: 100px;
 
 }
+
+.exercises {
+  margin: 60px auto;
+  width: 50%;
+  text-align: center;
+}
+.exercises h3 {
+  width: 573px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  text-align: left;
+}
+.exercises p {
+  width: 671px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  padding: 20px 10px;
+
+}
+.exercise-section img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.exercise-img-1{
+  display: grid;
+  grid-template-columns: 2fr 4fr 2fr;
+  grid-template-rows: 250px;
+}
+.exercise-img-2{
+  display: grid;
+  grid-template-columns: 3fr 2fr 3fr;
+  grid-template-rows: 250px;
+}
+
 

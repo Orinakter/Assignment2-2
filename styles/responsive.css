@@ -234,8 +234,53 @@
     padding: 10px 5px;
  }
 
+ .exercise-section{
+    flex-direction: column;
+    
+
+ }
+
+ .exercises {
+    flex-direction: column;
+    margin-top: -200px;
+    padding-right: 220px;
+ }
+
+ .exercises h3 {
+    font-size: 23px;
+    font-weight: 900;
+ }
+
+ .exercises p {
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: left;
+    padding: 10px 5px;
+    /* margin-right: -10px; */
+    padding-right: 10px;
+   margin-top: -28px;
+ }
+ .exercise-section img {
+    width: 205.95px;
+    height: 139px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: -10px;
+    padding: 10px 5px;
+    
+ }
+
+ .exercise-img-2{
+    margin-top: -100px;
+ 
+
+
 
 }
+
+ }
 
 
 

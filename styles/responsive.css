@@ -488,7 +488,7 @@
     font-weight: 900;
     margin-top: 50px;
     margin: 0 auto;
-    padding-top: 40px;
+    padding-top: 80px;
     
  }
 
@@ -497,12 +497,58 @@
     height: 72px;
     font-size: 14px;
     font-weight: 400;
+    margin-top: 20px;
 }
 .Primary-btn{
     width: 224px;
     height: 54px;
 }
+
+.meet-team-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 450px;
+   
+}
+
+
+.meet-team-container h2{
+    width: 243px;
+   height: 38px;
+   font-size: 32px;
+   font-weight: 900;
+    margin: 0 auto;
+}
+
+.meet-team-container p{
+    width: 309px;
+    height: 72px;
+    font-size: 14px;
+    font-weight: 400;
  }
+ .team-redius{
+    height: 1850px;
+    margin: 0 auto;
+ }
+
+ .meet-team-container img{
+    display: flex;
+    flex-direction: column;
+    
+
+ }
+
+ .row-1,.row-2{
+
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 313px;
+    /* height: 272px; */
+    margin-left: -0.10px;
+    
+ }
+}
     
 
         

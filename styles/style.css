@@ -718,3 +718,101 @@ select {
   margin: 0 auto;
 }
 
+
+.meet-team-container{
+  /* width: 1440px; */
+  height: 850px;
+  background: black; 
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-weight: 900;
+  margin: 0 auto;
+  margin-top: 30px; 
+  margin-right: 80px;
+  padding-right: 80px;
+  
+  
+}
+
+.meet-team-container h2{
+  width: 364px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+
+.meet-team-container p{
+  width: 671px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.meet-team-container img{
+  width: 326.67px;
+  height: 272px;
+  border-radius:18px;
+  padding-top: 10px;
+  gap: 10px;
+  margin: 5px; 
+  padding: 5px;
+  gap: 15px;
+  margin: 0 auto;
+}
+
+.team-redius{
+  width: 1080px;
+  height: 604px;
+  margin: 0 auto;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.1);
+  
+  
+
+
+}
+
+.row-1,.row-2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+.team-name{
+  position: relative;
+}
+.trainer-name{
+  position: absolute;
+  top: 70%;
+  left: 40%;
+  font-size: 22px;
+  color: white;
+  transform: translate(-50%,50%);
+}
+.trainer-text{
+  position: absolute;
+  top: 80%;
+  left: 28%;
+  font-size: 22px;
+  color: white;
+  transform: translate(-50%,50%);
+}
+
+
+.meet-out-team{
+  width: 1060px;
+  height: 782px;
+  border: 2px solid bisque;
+  margin: 0 auto;
+} 
+
+
+
+

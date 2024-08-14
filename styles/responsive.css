@@ -225,12 +225,10 @@
  }
 
  .run-image img{
-    width: 240px;
-   
+    width: 260px;
     border-radius: 18px;
     display: flex;
     flex-direction: column;
-    /* margin-right: -50px; */
     padding: 10px 5px;
  }
 
@@ -258,7 +256,6 @@
     letter-spacing: 0.3px;
     text-align: left;
     padding: 10px 5px;
-    /* margin-right: -10px; */
     padding-right: 10px;
    margin-top: -28px;
  }
@@ -274,13 +271,241 @@
 
  .exercise-img-2{
     margin-top: -100px;
- 
+}
 
+.unique-section{
+    display: flex;
+    flex-direction: column;
+    height: 1500px;
+}
+
+.unique-section-tittle{
+    flex-direction: column;
+}
+
+.unique-section-tittle h2{
+    font-size: 22px;
+    font-weight: 900;
+    margin-left: -0.001px;
+    padding: 10px 5px;
+    
+}
+
+.challenge-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.part-1 h3{
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: -80px;
+    padding: 5px 5px;
+
+}
+
+.part-1 p{
+    font-size: 8px;
+    font-weight: 400;
+    margin-top: 20px;
+    padding: 5px 5px;
+
+}
+.btn-1{
+   font-size: 10px;
+   border-radius: 20px;
+   font-weight: 400;
+   margin-top: -0.05px;
+   padding-left: -20px;
+   margin-left: 20px;
+}
+.part-1-img img{
+    width: 210px;
+    height: 139px;
+    margin-top: 30px;
+    margin-right: 250px;
+    padding: 10px 5px;
+
+}
+
+.part-2-img{
+    display: flex;
+    flex-direction: column;
+
+ }
+
+ .part-2-img img{
+    width: 205.95px;
+    height: 139px;
+    margin-top: 30px;
+
+ }
+
+ .challenge-2 h3{
+    font-size: 22px;
+    font-weight: 600;
+    padding: 5px 5px;
+    margin-top: 30px;
+    padding: 5px 5px;
+    margin-left: -28px;
+ }
+
+ .challenge-2 p{
+    font-size: 8px;
+    font-weight: 400;
+    margin-top: -20px;
+    padding: 5px 5px;
+    margin-left: -28px;
+ }
+
+ .btn-2{
+    font-size: 10px;
+    border-radius: 20px;
+    font-weight: 400;
+    margin-top: -0.01px;
+    padding-left: -20px;
+    margin-left: -0.01px;
+
+ }
+
+ .challenge-3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+
+}
+
+.part-3 h3{
+    font-size: 22px;
+    font-weight: 600;
+    padding: 5px 5px;
+    margin-top: 30px;
+    padding: 5px 5px;
+    margin-left: 5px;
+
+}
+
+.challenge-3 p{
+    font-size: 8px;
+    font-weight: 400;
+    margin-top: -5px;
+    padding: 5px 5px;
+    margin-left: -1px;
+    
+ }
+
+ .btn-3{
+    font-size: 10px;
+    border-radius: 20px;
+    font-weight: 400;
+    margin-top: -0.01px;
+    padding-left: -10px;
+    margin-left: -0.01px;
+    margin-right: 10px;
+
+ }
+
+ .part-3-img img{
+    width: 205.95px;
+    height: 139px;
+    margin-top: 30px;
+    margin-right: 220px;
+
+ }
+
+ .part-4-img{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-right:120px;
+ }
+
+ .part-4-img img{
+    width: 210px;
+    height: 139px;
+ }
+
+ .part-4 h3{
+    font-size: 22px;
+    font-weight: 600;
+    padding: 5px 5px;
+    margin-top: 30px;
+    /* padding: 5px 5px; */
+    margin-left: -20px;
+
+}
+
+.BMI-text{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.BMI-text h1{
+    font-size: 32px;
+    font-weight: 900;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 236px;
+    height: 38px;
+ }
+
+ .BMI-text p{
+    font-size: 14px;
+    font-weight: 400;
+    width: 353px;
+    height: 72px;
+ }
+ .table-form{
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    height: 335px;
+    margin: 0 auto;
+    
+
+ }
+
+ .table-form h3{
+    width: 167px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.calculate-your-bmi{
+    display: flex;
+    flex-direction: column;
 
 
 }
 
+.calculate-your-bmi h3{
+    width: 151px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 900;
+    margin-top: 50px;
+    margin: 0 auto;
+    padding-top: 40px;
+    
  }
+
+ .calculate-your-bmi p{
+    width: 346px;
+    height: 72px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.Primary-btn{
+    width: 224px;
+    height: 54px;
+}
+ }
+    
+
+        
 
 
 

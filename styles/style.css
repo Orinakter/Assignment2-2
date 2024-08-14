@@ -402,3 +402,319 @@ nav ul li a{
 }
 
 
+.unique-section{
+  max-width: 1440px;
+  height: 1120px;
+  background:rgb(33, 33, 33);
+  
+}
+
+.unique-section-tittle{
+  width: 1080px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.unique-section-tittle h2{
+  width: 476px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-weight: 900;
+  margin: 0 auto;
+
+}
+.challenge-1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+
+}
+.part-1 h3{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 900;
+}
+.part-1 p{
+  width: 500px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.part-1-img img{
+  width: 350px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.part-2-img{
+  width: 450px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  
+
+}
+.challenge-2 h3{
+  width: 573px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 900;
+  padding: 20px 10px;
+  padding-left: 30px;
+}
+.challenge-2 p{
+  width: 500px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  padding: 20px 10px;
+  padding-left: 30px;
+  margin-top: -50px;
+
+}
+
+
+.challenge-3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+
+}
+.part-3 h3{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 900;
+}
+.part-3 p{
+  width: 500px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.part-3-img img{
+  width: 350px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.part-4-img img{
+  border-radius: 10px;
+}
+
+.part-4-img{
+  width: 350px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  
+  
+
+}
+.challenge-4 h3{
+  width: 573px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 900;
+  padding: 20px 10px;
+  padding-left: 30px;
+}
+.challenge-4 p{
+  width: 500px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  padding: 20px 10px;
+  padding-left: 30px;
+  margin-top: -50px;
+
+}
+
+.btn-1{
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  border: 2px solid white;
+  background: rgb(230, 83, 60);
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 16px 40px 16px 40px;
+  margin-top: 30px;
+}
+.btn-1 a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+
+}
+.btn-2{
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  border: 2px solid white;
+  background: rgb(230, 83, 60);
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 16px 40px 16px 40px;
+  margin-left: 50px;
+
+}
+.btn-2 a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+
+}
+.btn-3{
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  border: 2px solid white;
+  background: rgb(230, 83, 60);
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 16px 40px 16px 40px;
+  margin-top: 30px;
+
+}
+.btn-3 a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+
+}
+.btn-4{
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  border: 2px solid white;
+  background: rgb(230, 83, 60);
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 16px 40px 16px 40px;
+  padding-left: 20px;
+  margin-left: 50px;
+
+}
+.btn-4 a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+
+}
+
+.table-form {
+  display: flex;
+  justify-content: space-between;
+}
+.bmi-text {
+  text-align: center;
+  margin: 70px 0;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  height: 216px;
+  color: #ffffff80;
+}
+table th {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 18px;
+  text-align: left;
+  color: #ffffff;
+}
+table td {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 18px;
+}
+.table-form {
+  padding: 50px;
+  background: rgb(34, 34, 34);
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+}
+.table-form h3{
+  width: 443px;
+height: 34px;
+color: rgb(255, 255, 255);
+font-size: 28px;
+font-weight: 900;
+}
+
+.calculate-your-bmi p {
+  margin-bottom: 1rem;
+}
+.input {
+  display: flex;
+  gap: 3%;
+}
+input,
+select {
+  height: 50px;
+  width: 100%;
+  border: none;
+  border-radius: 0.5rem;
+  margin: 0.5rem 0;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.6);
+}
+.select-full {
+  margin-bottom: 10px;
+}
+
+.calculate-your-bmi h3{
+  width: 443px;
+  height: 34px;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 900;
+  
+}
+
+.calculate-your-bmi p{
+  width: 577px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+
+
+.BMI-text h1{
+  width: 353px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  margin: 0 auto;
+  margin-top: 30px;
+
+}
+
+.BMI-text p{
+  width: 671px;
+  height: 48px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 auto;
+}
+

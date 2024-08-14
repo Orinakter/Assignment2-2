@@ -78,20 +78,19 @@ nav ul li a{
 }
 
 .banner-content h1{
-  width: 500px;
-  height: 282px;
-  color: rgb(255, 255, 255);
-  font-size: 78px;
-  font-weight: 900;
-  line-height: 120%;
+  width: 520px;
+height: 282px;;
+color: rgb(255, 255, 255);
+font-size: 50px;
+font-weight: 900;
 }
 .banner-content p{
   width: 520px;
-  height: 48px;
-  color: rgba(255, 255, 255, 0.5);
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
+   height: 48px;
+   color: rgba(255, 255, 255, 0.5);
+   font-family: Inter;
+   font-size: 16px;
+   font-weight: 400;
 }
 #shape{
   font-family: Miama;
@@ -178,11 +177,11 @@ nav ul li a{
 
 }
 .habit-content h2{
-  width: 470px;
-  height: 50px;
-  color: rgb(255, 255, 255);
-  font-size: 44px;
-  font-weight: 900;
+  width: 476px;
+height: 58px;
+color: rgb(255, 255, 255);
+font-size: 48px;
+font-weight: 900;
   margin: 0 auto;
 
 }
@@ -195,6 +194,7 @@ nav ul li a{
   font-weight: 400;
   margin: 0 auto;
   margin-top: 10px;
+  
 }
 .habit-image{
  display: flex;
@@ -812,6 +812,78 @@ select {
   border: 2px solid bisque;
   margin: 0 auto;
 } 
+.footer h2{
+  width: 256px;
+  height: 84px;
+  color: rgb(230, 83, 60);
+  font-size: 50px;
+  font-weight: 800;
+}
+.footer p{
+  width: 440px;
+height: 72px;
+color: rgba(255, 255, 255, 0.5);
+font-size: 14px;
+font-weight: 400;
+}
+.get-started h2{
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 700;
+
+}
+.get-started > ul > li {
+  list-style: none;
+}
+.get-started > ul > li > a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5);
+}
+.get-started {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.copyright{
+  width: 318px;
+  height: 24px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.footer-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+footer {
+  background: rgba(255, 255, 255, 0.1);
+}
+.footer-grid {
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-content: center;
+  height: 300px;
+  padding-left: 150px;
+}
+hr {
+  width: 60%;
+  margin: 0 auto;
+}
+.right-reserve {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.ham-bar{
+  color: #ffffff;
+  display: none;
+}
+
+
 
 
 
